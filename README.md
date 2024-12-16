@@ -12,4 +12,4 @@ Download the ZIP file here: https://kwfenske.github.io/check-plain-trim-java.zip
 Released under the terms and conditions of the Apache License (version 2.0 or
 later) and/or the GNU General Public License (GPL, version 2 or later).
 
-![Check Plain Trim (Java) sample program image](CheckPlainTrim2.gif)
+![Check Plain Trim (Java) sample program image](CheckPlainTrim2.png)
